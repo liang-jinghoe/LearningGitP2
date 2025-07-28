@@ -1,3 +1,3 @@
 # LearningGit
 
-This changge is made on my Laptop
+This changge is made on my friend laptop
