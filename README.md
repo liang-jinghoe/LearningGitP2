@@ -1,5 +1,5 @@
 # LearningGit
 
-This changge is made on my Laptop
+This change is made on my dekstop
 
 Mr. Nawaf told me to make some changes
